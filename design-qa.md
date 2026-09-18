@@ -35,3 +35,6 @@ Intentional differences: generated illustrations are separate production assets 
 Evidence lives alongside this checkout in `../atmonex-design/`: `option-1.png`, `design-comparison.png`, `implementation-desktop.png`, `implementation-full.png`, `implementation-mobile.png`, `implementation-mobile-menu.png`, `implementation-mobile-work.png`, `implementation-mobile-capability.png`, `implementation-capability.png`, `implementation-contact.png`, `implementation-business.png`, `implementation-terms.png`, and `browser-verification.json`.
 
 These local review artifacts are not part of the public website. Browser checks cover Chromium, not Safari/Firefox or a full accessibility certification. No live deployment is claimed by this review.
+
+## Contact update — 2026-09-18
+Added the original owner-supplied QR code next to the existing blueingel@hotmail.com email channel. No visitor-facing repository links or text. Contact checks passed at 320, 390, 768 and 1435 px; existing navigation, business text and email-copy regression passed. No email was sent.
