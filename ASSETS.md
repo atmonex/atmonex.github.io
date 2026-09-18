@@ -12,3 +12,5 @@
 Illustrations communicate subject areas only. They are not scientific output, client evidence, photographs of AtmoNex facilities, or performance claims. All interface text is HTML; imagery contains no essential labels or controls. The page and footer identify the illustrations as conceptual.
 
 Assets are served locally. There are no remote font, image, or tracking requests in the page.
+
+联系二维码 `assets/contact-qr.png` 由用户提供并授权用于网站联系入口，原始 PNG 未重绘或压缩。 / Contact QR code supplied by the site owner; original PNG preserved.
